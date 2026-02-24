@@ -25,3 +25,5 @@ By adjusting the distance between your thumb and index finger, you can zoom the 
 
 # Status Feedback System: 
 A glassmorphism-style "Status Pill" in the UI changes color and text based on whether the engine is in a locked or active state, providing immediate visual confirmation of user actions.
+
+#Live Demo : https://handgestures07.netlify.app/
